@@ -1,7 +1,7 @@
 # Sports-Connect
 Online Sports Booking System
 
-<img src="https://github.com/anmolbhardwaj17/Sports-Connect/blob/main/spo.png" width="250">
+<img src="https://github.com/anmolbhardwaj17/Sports-Connect/blob/main/logo.png" >
 
 Sports Connect successfully allows people to find friends to play a sport with. Players may book time slots for their preferred sport, location, and facility.
 
